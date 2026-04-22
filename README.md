@@ -33,7 +33,7 @@ npm run dev
 ## Screenshots
 
 ### Input
-![Input](input.png)
+![Input](Screenshot 2026-04-22 180810.png)
 
 ### Optimized Result
 ![Result](result.png)
