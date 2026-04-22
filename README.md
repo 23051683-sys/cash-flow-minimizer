@@ -36,7 +36,7 @@ npm run dev
 ![Input](Input.png)
 
 ### Optimized Result
-![Result](result.png)
+![Result](Result.png)
 
 ## 📌 Example
 
