@@ -30,7 +30,13 @@ npm run dev
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+## Screenshots
+
+### Input
+![Input](input.png)
+
+### Optimized Result
+![Result](result.png)
 
 ## 📌 Example
 
